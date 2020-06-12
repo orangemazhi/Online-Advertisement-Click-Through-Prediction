@@ -1,4 +1,4 @@
-# Online-Advertisement-Click-Through-Prediction
+# Online-Advertisement-Click-Through-Rate Prediction
 REAL-WORLD BIG DATA ANALYTICS USING SPARK FRAMEWORK ON ALIBABA E- COMMERCE DATASET
 
 The shape of the marketing world is changing dynamically with the advent of new trends and technology. With rapid digitalization and low cost, online marketing becomes critical for business to drive traffic, leads, and sales. Displaying advertisements on various platforms is becoming one of the most efficient ways to acquire customers. Taobao, as the largest online retail platform in the world, provides billions of online display ads positions for millions of advertisers every day.
